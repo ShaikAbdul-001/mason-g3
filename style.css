@@ -173,7 +173,7 @@ body {
   text-align: center;
   padding: 10px 35px;
   transition: all 3s;
-  transition-timing: ease-in-out;
+  /* transition-timing: e; */
   width: 100px;
 }
 .banner4-achievement:hover {
@@ -183,7 +183,6 @@ body {
     rgba(156, 252, 247, 0.75) 11.2%,
     rgba(110, 124, 251, 0.709) 91.1%
   );
-  text-color: white;
   border: none;
 }
 .banner4-achieve-total {
