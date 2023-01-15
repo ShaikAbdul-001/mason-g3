@@ -1,1 +1,1 @@
-# template
+"# mason-templates" 
